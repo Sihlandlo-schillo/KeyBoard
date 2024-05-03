@@ -1,0 +1,90 @@
+body{
+    background-color: gray;
+    padding: 150px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+}
+.key {
+    width: 60px;
+    height: 60px;
+    text-align: left;
+}
+.keywrapper {
+    display: flex;
+}
+.key1 {
+    width: 53px;
+    height: 30px;
+}
+.keyBackspace {
+    width: 95px;
+    height: 60px;
+}
+
+.keyShift {
+    width: 125px;
+    height: 60px;
+    text-align: left;
+}
+.keyShift2 {
+    width: 125px;
+    height: 60px;
+    text-align: right;
+}
+.keyTab {
+    height: 60px;
+    width: 80px;
+    text-align: left;
+}
+.keySpaci {
+    width: 300px;
+    height: 60px;
+}
+.keyCaps {
+    width: 100px;
+    height: 60px;
+    text-align: left;
+}
+.keyEnter {
+    width: 100px;
+    height: 60px;
+    text-align: right;
+}
+.keyNumbers {
+    width: 50px;
+    height: 60px;
+}
+.keyChild {
+    width: 40px;
+    height: 60px;
+    text-align: left;
+}
+.keyNumbers0 {
+    width: 100px;
+    height: 60px;
+    text-align: left;
+}
+.keyNumbersPlus {
+    width: 50px;
+    height:
+}
+.keyCtrl {
+    width: 70px;
+    height: 60px;
+}
+.keyCtrl2{
+    width: 60px;
+    height: 60px;
+}
+.keyNumbersEnt {
+    width: 50px;
+    height:
+}
+.keyArrows {
+    width: 60px;
+    height: 60px;
+}
